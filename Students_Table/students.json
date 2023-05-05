@@ -1,0 +1,42 @@
+[
+	{
+		"name": "Ramesh Babu",
+		"class": "10",
+		"section": "C",
+		"sub1": "70",
+		"sub2": "80",
+		"sub3": "90"
+	},
+	{
+		"name": "James",
+		"class": "5",
+		"section": "B",
+		"sub1": "55",
+		"sub2": "65",
+		"sub3": "75"
+	},
+	{
+		"name": "Loyola",
+		"class": "6",
+		"section": "8",
+		"sub1": "90",
+		"sub2": "95",
+		"sub3": "100"
+	},
+	{
+		"name": "Arivu",
+		"class": "3",
+		"section": "D",
+		"sub1": "88",
+		"sub2": "99",
+		"sub3": "77"
+	},
+	{
+		"name": "Mangai",
+		"class": "6",
+		"section": "D",
+		"sub1": "90",
+		"sub2": "98",
+		"sub3": "88"
+	}
+]
